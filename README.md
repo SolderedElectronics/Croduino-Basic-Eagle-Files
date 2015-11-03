@@ -9,7 +9,7 @@ Croduino Basic is 100% Arduino compatible board made in EU(Croatia), created to 
 
 It has even more analog inputs than Arduino Uno, features FTDI USB chip and built-in voltage regulator. The main difference from original Arduino and Croduino is size. Croduino is just 5cm x 3cm which makes it very easy to implement into projects. More:
 
-- Atmega328 microcontroller(32kB flash, 2kB RAM, 0.5kB EEPROM)
+- Atmega328 microcontroller(32kB flash, 2kB RAM, 1kB EEPROM)
 - FTDI USB converter
 - 22 I/O pins, 14 digital I/O, 6 PWM, 8 analog pins
 - Size only 3 x 5cm (1.2 x 2 inch)
