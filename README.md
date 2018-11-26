@@ -1,8 +1,7 @@
 # Croduino Basic Eagle Files
 ## Image
-![Croduino Basic image]
-(https://d3s5r33r268y59.cloudfront.net/33091/products/thumbs/2015-08-06T20:28:15.855Z-DSC_4567-2.jpg.2560x2560_q85.jpg)
-[Croduino Basic(100009)] (https://e-radionica.com/en/croduino-basic.html)
+![Croduino Basic image](https://d3s5r33r268y59.cloudfront.net/33091/products/thumbs/2015-08-06T20:28:15.855Z-DSC_4567-2.jpg.2560x2560_q85.jpg)
+[Croduino Basic(100009)](https://e-radionica.com/en/croduino-basic.html)
 
 ## Description and details
 Croduino Basic is 100% Arduino compatible board made in EU(Croatia), created to promote Arduino culture in Croatia(well, it's named CROduino). Install Arduino software, plug it into USB and start DIY-ing!
